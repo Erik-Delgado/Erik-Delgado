@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erik-Delgado
 - 👀 I’m interested in ... algorithms
 - 🌱 I’m currently learning ... electronic engineering
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... your call
 - 📫 How to reach me ... budgieloverorson@gmail.com
 
 <!---
